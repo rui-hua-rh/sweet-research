@@ -5,6 +5,6 @@
 
   # rui-hua-rh's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[rui-hua-rh.github.io/sweet-research](https://rui-hua-rh.github.io/sweet-research)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
